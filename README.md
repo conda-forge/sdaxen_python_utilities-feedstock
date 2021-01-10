@@ -117,4 +117,4 @@ Feedstock Maintainers
 =====================
 
 * [@hadim](https://github.com/hadim/)
-
+* [@sethaxen](https://github.com/sethaxen/)
