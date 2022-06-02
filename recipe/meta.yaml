@@ -1,5 +1,5 @@
 {% set name = "sdaxen_python_utilities" %}
-{% set version = "0.1.4" %}
+{% set version = "0.1.5" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/sdaxen_python_utilities-{{ version }}.tar.gz
-  sha256: f4a4a082e510b1d6cd85fc61d9aca7046c77545f4144f98263ef2eda19eddfc5
+  sha256: 1c91a57766dc059b1400cc4f8c4555d351326d2582309e216bc62b3e541acfcd
 
 build:
   number: 0
